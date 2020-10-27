@@ -1,0 +1,5 @@
+<script>
+window.onload = function(e){ 
+    doGTranslate('en|fr');
+}
+</script>
